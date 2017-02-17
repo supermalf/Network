@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Java / Maven
+log/
+target/
+*.jar
+*.class
+atlassian-ide-plugin.xml
